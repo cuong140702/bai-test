@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Test Quận 7" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.7226, 10.7292],
+            [106.7426, 10.7292],
+            [106.7426, 10.7392],
+            [106.7226, 10.7392],
+            [106.7226, 10.7292]
+          ]
+        ]
+      }
+    }
+  ]
+}
