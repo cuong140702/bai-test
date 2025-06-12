@@ -21,7 +21,7 @@ const MapComponent = () => {
     <div style={{ position: "relative", width: "900px", height: "500px" }}>
       <MapContainer
         center={[10.743603, 106.699219]}
-        zoom={14}
+        zoom={12}
         style={{ height: "100%", width: "100%" }}
       >
         <TileLayer
